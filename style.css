@@ -2,7 +2,7 @@
     width: 100%;
     min-height: 100vh;
     color: white;
-    background-color: rgb(127, 80, 223);
+    background: linear-gradient(135deg, rgb(32, 85, 172), #400080);
     padding: 10px;
 }
 .calculator{
